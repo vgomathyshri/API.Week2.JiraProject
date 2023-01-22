@@ -1,0 +1,1 @@
+newman run C:\Users\bsank\Desktop\API\NewMan\jsons\JiraProject\JiraProject.postman_collection.json -g C:\Users\bsank\Desktop\API\NewMan\jsons\JiraProject\workspace.postman_globals.json -r htmlextra
